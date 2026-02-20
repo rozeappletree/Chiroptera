@@ -1,0 +1,2 @@
+- [[2026-02-20] Annotation data schema](https://www.youtube.com/watch?v=maLgd7FFAOM)
+- [[2026-02-20] Annotation, GitHub, Project Management](https://www.youtube.com/watch?v=T9cUG9ujsms)

@@ -5,7 +5,7 @@
 
     <details>
       <summary>Drawing board</summary>
-      Room: [click here](https://excalidraw.com/#room=0bd855cc4cf5e068c814,oNS_Yg9WD7j1Rroi3zzUzw)
+      Room: https://excalidraw.com/#room=0bd855cc4cf5e068c814,oNS_Yg9WD7j1Rroi3zzUzw
       <img width="1232" height="515" alt="image" src="https://github.com/user-attachments/assets/927c82c8-d937-496d-819a-9d8bba127868" />
       <img width="940" height="258" alt="image" src="https://github.com/user-attachments/assets/976fef25-73c5-49bf-b38e-86c8ccd777c2" />
 

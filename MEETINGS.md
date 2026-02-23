@@ -1,2 +1,4 @@
 - [[2026-02-20] Annotation data schema](https://www.youtube.com/watch?v=maLgd7FFAOM)
 - [[2026-02-20] Annotation, GitHub, Project Management](https://www.youtube.com/watch?v=T9cUG9ujsms)
+- [[2026-02-23] Previous work - Modelling Part 1 | Pinto et al](https://www.youtube.com/watch?v=xf5yieEqGKc)
+- [[2026-02-23] Previous work - Modelling Part 2 - Next steps by Rakesh | Pinto et al](https://www.youtube.com/watch?v=oOe5jmOmO5A)

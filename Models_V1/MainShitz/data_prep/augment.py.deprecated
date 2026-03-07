@@ -2,8 +2,10 @@
 augment.py - Making more data out of thin air
 
 Adds noise to audio files to artificially expand the dataset.
-it's "data augmentation"
+It's not cheating, it's "data augmentation". Totally legit.
 
+WARNING: librosa.output.write_wav was removed in librosa 0.8+
+This file needs updating if you actually want to use it.
 """
 import os
 import numpy as np

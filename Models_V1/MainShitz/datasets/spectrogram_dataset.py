@@ -2,6 +2,7 @@
 spectrogram_dataset.py - Basic image dataset for spectrograms
 
 Simple dataset that loads spectrograms from folders organized by species.
+No fancy features, just images and labels. Sometimes simple is good.
 """
 from torch.utils.data import Dataset
 from PIL import Image

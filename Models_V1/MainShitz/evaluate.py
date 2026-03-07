@@ -2,6 +2,7 @@
 evaluate.py - Moment of truth: does our model actually work?
 
 Loads a trained model and runs it on test data to get accuracy.
+Hopefully the numbers go up, not down.
 """
 import os
 import torch

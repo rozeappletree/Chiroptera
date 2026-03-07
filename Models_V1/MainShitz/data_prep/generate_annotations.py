@@ -2,9 +2,8 @@
 generate_annotations.py - Auto-label audio files when you're lazy
 
 Creates Wombat-style JSON annotations from raw audio directories.
-Labels are derived from folder names or filenames.
-
-SHOULD USE ANNOTATIONS this is not good this is for testing when annotations were not good
+Labels are derived from folder names or filenames. Not perfect,
+but better than labeling thousands of files by hand.
 """
 import argparse
 import json

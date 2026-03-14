@@ -10,7 +10,7 @@ Only the two notebooks below are needed.
 - Set output model path (where checkpoint is saved).
 
 ### Use
-- Open notebook.
+- Open notebook In Kaggle.
 - Edit the first config cell.
 - Run all cells top-to-bottom.
 
@@ -22,13 +22,7 @@ Only the two notebooks below are needed.
 - (Optional) set display/sample limits.
 
 ### Use
-- Open notebook.
+- Open notebook in Kaggle.
 - Edit path variables in the first config cell.
 - Run all cells to visualize spectrograms + boxes.
 
-## Run locally (optional)
-
-```bash
-cd /home/gb/Chiroptera/Models_V1/notebooks
-jupyter notebook
-```
